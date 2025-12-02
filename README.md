@@ -26,9 +26,14 @@
 
 <div align="center">
 
-![Stats](https://github-readme-streak-stats.herokuapp.com/?user=samraddhi-singh&theme=tokyonight)
+<!-- GitHub Streak -->
+![GitHub Streak](https://streak-stats.demolab.com?user=samraddhi-singh&theme=tokyonight&hide_border=false)
 
-![Most Used Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=samraddhi-singh&layout=compact&theme=tokyonight)
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samraddhi-singh&show_icons=true&theme=tokyonight)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samraddhi-singh&layout=compact&theme=tokyonight)
 
 </div>
 
