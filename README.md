@@ -24,18 +24,12 @@
 
 ## 📈 GitHub Stats  
 
-<div align="center">
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samraddhi-singh&theme=tokyonight)
 
-<!-- GitHub Streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=samraddhi-singh&theme=tokyonight&hide_border=false)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samraddhi-singh&theme=tokyonight)
 
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samraddhi-singh&show_icons=true&theme=tokyonight)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samraddhi-singh&theme=tokyonight)
 
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samraddhi-singh&layout=compact&theme=tokyonight)
-
-</div>
 
 ---
 
